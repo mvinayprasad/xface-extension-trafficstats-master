@@ -1,0 +1,66 @@
+{
+  "_from": "com.polyvi.xface.extension.trafficstats@1.0.1",
+  "_id": "com.polyvi.xface.extension.trafficstats@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-aaK5XRHIiR+1AYEwmXbFL98Q/I62OoUMAbxK0DTpICo0M3luihomr0S+YXstDLL0MyIKOB3WtRHVuCP4y97kHw==",
+  "_location": "/com.polyvi.xface.extension.trafficstats",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "com.polyvi.xface.extension.trafficstats@1.0.1",
+    "name": "com.polyvi.xface.extension.trafficstats",
+    "escapedName": "com.polyvi.xface.extension.trafficstats",
+    "rawSpec": "5.1.6",
+    "saveSpec": null,
+    "fetchSpec": "5.1.6"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/com.polyvi.xface.extension.trafficstats/-/com.polyvi.xface.extension.trafficstats-5.1.6.tgz",
+  "_shasum": "f3aa6dbe50e948653c3ce8952aaf6d5495047fa8",
+  "_spec": "com.polyvi.xface.extension.trafficstats@1.0.1",
+  "author": {
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com",
+    "url": "https://github.com/dvsafronov/xface-extension-trafficstats"
+  },
+  "bugs": {
+    "url": "https://github.com/dvsafronov/xface-extension-trafficstats"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.polyvi.xface.extension.trafficstats",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "This plugin allows you to monitor the live data usage.",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova-android": ">=6.3.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin#readme",
+  "keywords": [
+    "Calendar",
+    "Agenda",
+    "Event",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "com.polyvi.xface.extension.trafficstats",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin.git"
+  },
+  "version": "5.1.6"
+}
